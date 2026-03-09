@@ -41,4 +41,8 @@ if st.button("Predict"):
         if prediction == 1:
             st.error("🚫 This email is classified as **SPAM**.")
         else:
+<<<<<<< HEAD
             st.success("✅ This email is classified as **HAM**.")
+=======
+            st.success("This email is classified as **HAM**.")
+>>>>>>> 2c72799503ee25975a1c60ee970942625ba43c29
