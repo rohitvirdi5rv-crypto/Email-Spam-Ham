@@ -30,7 +30,7 @@ def preprocess(text):
 
     return " ".join(tokens)
 
-st.title("📧 Spam vs Ham Classifier")
+st.title("📧 Email Spam vs Ham Classifier")
 st.write("Enter an email message and find out whether it is **SPAM** or **HAM**.")
 
 user_input = st.text_area("✍️ Email Text")
@@ -46,4 +46,5 @@ if st.button("Predict"):
         if prediction == 1:
             st.error("🚫 This email is classified as **SPAM**.")
         else:
+
             st.success("✅ This email is classified as **HAM**.")
