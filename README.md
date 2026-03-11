@@ -17,7 +17,7 @@ The system works in three main stages:
 * Model prediction – Classify the message as Spam or Ham.
 
 ---
-## 🧠 How the Model Works
+# 🧠 How the Model Works
 
 ## 1. Dataset
 
@@ -116,14 +116,14 @@ The project includes a **user-friendly web interface built with Streamlit**.
 ![App Screenshot](https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham/blob/ff85d1fcc7ec44fd843f19bc4e6ec66af0877a18/Screenshots/Front3.png)
 
 ---
-## Installation and Setup
+# Installation and Setup
 
 ## 1. Download the repository
 
 It will be downloaded in Zip file so you have to **Extract** the files. A direct link to the repository is available below.
 
 ```
-" https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham.git "
+https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham.git
 
 ```
 
@@ -134,7 +134,7 @@ It will be downloaded in Zip file so you have to **Extract** the files. A direct
 For this, I have created a commands.txt file where you can find the commands to install the required dependencies and run the Streamlit app. You can access the file directly using the link below.
 
 ```
-https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham/blob/ff85d1fcc7ec44fd843f19bc4e6ec66af0877a18/commands.txt "
+https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham/blob/ff85d1fcc7ec44fd843f19bc4e6ec66af0877a18/commands.txt
 ```
 
 ---
@@ -146,5 +146,6 @@ To test the project, you can use the sample messages provided in the examples.tx
 ```
 https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham/blob/ff85d1fcc7ec44fd843f19bc4e6ec66af0877a18/examples.txt
 ```
+
 
 --- 
