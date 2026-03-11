@@ -147,5 +147,13 @@ To test the project, you can use the sample messages provided in the examples.tx
 https://github.com/rohitvirdi5rv-crypto/Email-Spam-Ham/blob/ff85d1fcc7ec44fd843f19bc4e6ec66af0877a18/examples.txt
 ```
 
-
 --- 
+
+## Live Demo
+
+The application has been successfully deployed.  
+You can test the Spam vs Ham classifier using the link below:
+
+[Click here to open the deployed application](https://email-spam-ham-qp2xduhaya4w3wquznpzci.streamlit.app/)
+
+---
