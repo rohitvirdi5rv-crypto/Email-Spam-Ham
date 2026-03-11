@@ -1,4 +1,6 @@
-pandas
-nltk
-scikit-learn
 streamlit
+scikit-learn
+pandas
+numpy
+nltk
+altair==4.2.2
